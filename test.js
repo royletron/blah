@@ -7,3 +7,5 @@ for (var i = 0; i < 100; i++) {
 }
 
 console.log('I am doing printing cars');
+
+console.log('Does the fun function work');
